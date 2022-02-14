@@ -11,12 +11,12 @@ export const IS_SHOW_RESTART = false;
 // 首页配置
 export const homeConfig = {
   // 标题
-  title: '520送礼抽奖',
+  title: '情人节 - 王聪的抽奖',
   // 留言，数组的每一项代表一行
   messages: [
-    { key: 'a', wording: '这是第一行文案', },
-    { key: 's', wording: '这是第二行文案', },
-    { key: 'd', wording: '然后，这里是第三行文案', },
+    { key: 'a', wording: '小王聪~', },
+    { key: 's', wording: '这是你的抽奖哦~', },
+    { key: 'd', wording: '只能抽一次，抽到啥就给你啥哦~', },
   ],
   // 最终解释权归属人
   owner: 'zhuli',

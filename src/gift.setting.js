@@ -19,7 +19,7 @@ export const homeConfig = {
     { key: 'd', wording: '然后，这里是第三行文案', },
   ],
   // 最终解释权归属人
-  owner: 'XXX',
+  owner: 'zhuli',
   // 抽奖转盘的动画时间，单位毫秒
   timeout: 5000,
   // 指定赠送的礼物的索引（第几个礼物中奖），取值范围 0-8

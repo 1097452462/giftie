@@ -31,12 +31,12 @@ export const homeConfig = {
 // 图片放在 public/images 中，建议是正方形，否则影响视觉体验
 // name 是礼物的全称；alias 是礼物的简称（用来显示在抽奖方格里）
 export const gifts = [
-  { key: 'q', name: '520红包', alias: '520', image: '/images/1.png',  description: '「520块人民币！！」' },
-  { key: 'w', name: '腾讯视频年VIP', alias: 'VIP', image: '/images/2.png',  description: '“为你承包VIP”' },
-  { key: 'e', name: '999红包', alias: '999', image: '/images/3.png',  description: '「999块人民币！！！」' },
-  { key: 'r', name: '199红包', alias: '199', image: '/images/6.png',  description: '199块人民币！' },
-  { key: 't', name: '299红包', alias: '299', image: '/images/5.png',  description: '299块人民币！' },
-  { key: 'y', name: '1314红包', alias: '1314', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
-  { key: 'u', name: '99', alias: '99', image: '/images/7.png',  description: '小小心意~' },
+  { key: 'q', name: 'xxxx', alias: 'ffaaa', image: '/images/1.png',  description: '「sssss！！」' },
+  { key: 'w', name: '腾讯视频年VIP', alias: 'VIP', image: '/images/2.png',  description: '“sss”' },
+  { key: 'e', name: 'xxx', alias: 'fff', image: '/images/3.png',  description: '「sss！！！」' },
+  { key: 'r', name: 'xx', alias: 'zzz', image: '/images/6.png',  description: 'sss！' },
+  { key: 't', name: 'xxxxxxx', alias: 'xxx', image: '/images/5.png',  description: 'ffff民币！' },
+  { key: 'y', name: 'xx', alias: '1sf', image: '/images/6.png',  description: '“从今往后，我都会在你旁边”' },
+  { key: 'u', name: 'xx', alias: 'xx', image: '/images/7.png',  description: '小小心意~' },
   { key: 'i', name: '谢谢惠顾！嘿嘿', alias: '谢谢惠顾！', image: '/images/8.png',  description: '5555555555' },
 ];
